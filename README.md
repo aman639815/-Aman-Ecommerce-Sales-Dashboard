@@ -12,7 +12,7 @@ This dashboard provides a clear and interactive view of e-commerce sales data. I
 ## 🖥️ Dashboard Preview
 
 
- ![-Aman-Ecommerce-Sales-Dashboard][Dasboard.PNG]
+ ![-Aman-Ecommerce-Sales-Dashboard](Dasboard.PNG)
 
 
 
