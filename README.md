@@ -10,7 +10,7 @@ This dashboard provides a clear and interactive view of e-commerce sales data. I
 
 🖥️ Dashboard Preview
 
-![Aman Ecommerce Sales Dashboard](Dashboard.png)
+![Aman Ecommerce Sales Dashboard](Dashboard.PNG)
 
 
 📈 Key KPIs
