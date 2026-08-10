@@ -8,9 +8,12 @@ An interactive E-Commerce Sales Dashboard built in Microsoft Power BI to analyze
 
 This dashboard provides a clear and interactive view of e-commerce sales data. It helps users understand overall business performance and identify trends across different dimensions such as state, category, customer, payment mode, sub-category, and month.
 
-🖥️ Dashboard Preview
+
+## 🖥️ Dashboard Preview
+
 
 ![Aman Ecommerce Sales Dashboard](Dashboard.PNG)
+
 
 
 📈 Key KPIs
